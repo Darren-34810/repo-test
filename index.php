@@ -3,18 +3,6 @@
 <head>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.23/css/dataTables.bootstrap.min.css">
-    <style>
-        .footer {
-            position: fixed;
-            left: 0;
-            bottom: 0;
-            width: 100%;
-            background-color: grey;
-            color: #eee;
-            text-align: center;
-            padding: 0.8rem;
-        }
-    </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.datatables.net/1.10.23/js/dataTables.bootstrap.min.js"></script>
@@ -139,9 +127,6 @@
                     ?>
                 </tbody>
             </table>
-        </div>
-        <div class="text-center footer">
-            <p>Ini footer..</p>
         </div>
     </div>
 </body>
