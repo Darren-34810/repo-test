@@ -74,18 +74,6 @@
                 "qpu" => "12 - 200 ml jars",
                 "price" => 31.0000,
                 "stock" => 31
-            ),
-            "11" => array (
-                "name" => "Queso Cabrales",
-                "qpu" => "1 kg pkg.",
-                "price" => 21.0000,
-                "stock" => 22
-            ),
-            "12" => array (
-                "name" => "Queso Manchego La Pastora",
-                "qpu" => "10 - 500 g pkgs.",
-                "price" => 38.0000,
-                "stock" => 86
             )
         );
     ?>
